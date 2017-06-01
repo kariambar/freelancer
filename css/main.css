@@ -97,7 +97,7 @@ h4{
  #portafolio{
  	text-align: center;
  	padding: 70px 7px;
- 	height: 130vh;
+ 	height: 150vh;
  }
 
  #about{
@@ -105,8 +105,6 @@ h4{
  	color: whitesmoke;
  	height: 80vh;
  }
-
-
 
  #about h2{
  	font-family: 'Montserrat', sans-serif;
@@ -124,6 +122,32 @@ h4{
  	color: white;
  	margin-top: 30px;
 }
+
+
+.btn-outline{
+	color: #fff;
+	font-size: 20px;
+	border: 2px solid #fff;
+	background: 0 0;
+	transition: all .3s ease-in-out;
+	margin-top: 15px;
+	text-align:center;
+	margin-left: 450px; 
+
+}
+
+.btn-lg{
+	padding: 10px 16px;
+	border-radius: 6px;
+}
+
+.btn{
+	display: inline-block;
+	margin-bottom: 0;
+	text-align:center;
+
+}
+
  #contact{
  	text-align: center;
  	margin-top: 70px;
